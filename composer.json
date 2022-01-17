@@ -24,7 +24,7 @@
         "ext-gmp": "*",
         "ext-openssl": "*",
         "ext-json": "*",
-        "web3p/ethereum-tx": "^0.3.4",
+        "web3p/ethereum-tx": "^0.4.3",
         "furqansiddiqui/bip39-mnemonic-php": "^0.1.2",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",
         "ext-bcmath": "*",
