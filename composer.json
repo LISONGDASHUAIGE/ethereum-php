@@ -1,5 +1,5 @@
 {
-    "name": "nanqi/ethereum-php",
+    "name": "lisong/ethereum-php",
     "type": "library",
     "description": "ethereum eth heco erc20 trc20 web3 keysotre bip44 infura etherscan proxy api",
     "keywords": [
